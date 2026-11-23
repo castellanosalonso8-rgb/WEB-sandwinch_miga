@@ -1,0 +1,10 @@
+Acá van las imágenes de la web. Sirve .png, .jpg, .jpeg, .webp o .svg. Todas son opcionales.
+
+  logo.png            -> logo de SANDO (header, hero, pie). Se muestra sin deformarse
+  hero-sandwich.png   -> reemplaza al sándwich del círculo del hero (PNG con fondo transparente)
+  variedad-1.png      -> foto del sabor 1 (Jamón y queso). Reemplaza la ilustración
+  variedad-2.png      -> foto del sabor 2 (Salame y queso). Reemplaza la ilustración
+  local.jpg           -> foto de los sándwiches en un local. SIN esta foto, esa sección no se muestra
+  og-image.jpg        -> imagen al compartir el link por WhatsApp (1200x630)
+
+Consejo: archivos de menos de ~250 KB (se pueden achicar gratis en squoosh.app).
